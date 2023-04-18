@@ -4,10 +4,10 @@
 class Che < Formula
   desc ""
   homepage ""
-  url "https://github.com/icherry-tech/che/releases/download/2.1/che.tar.gz"
-  sha256 "c46b3c990d3e33036c0d829daf24e89ebcfba894f67793cdd8350bd732cff5c0"
+  url "https://github.com/icherry-tech/che/releases/download/1.0/che.tar.gz"
+  sha256 "7be753785df3847af97019b4579dc9aa5233099e1a969592e069f88dd51f2207"
   license ""
-  version "2.1"
+  version "1.0"
 
   # depends_on "cmake" => :build
 
